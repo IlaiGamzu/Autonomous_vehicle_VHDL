@@ -12,6 +12,7 @@
 
 # The Entity and Architecture:
 
+<img width="443" alt="image" src="https://github.com/IlaiGamzu/VHDL--Vehicle/assets/135164356/85e864da-dc05-4483-9aed-5c980c80782a">
 
 
 # State Machine
